@@ -1,9 +1,5 @@
 package week2_DynamicArrays;
 
-
-
-import week2_DynamicArrays.*;
-
 public class Lab02Exer1 {
 
     public static void main(String[] args) {

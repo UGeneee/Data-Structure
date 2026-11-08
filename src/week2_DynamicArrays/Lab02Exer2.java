@@ -1,8 +1,5 @@
 package week2_DynamicArrays;
 
-
-
-import week2_DynamicArrays.*;
 import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.Scanner;

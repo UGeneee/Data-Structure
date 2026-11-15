@@ -1,4 +1,4 @@
-package week3_Nodes;
+package week03_Nodes;
 
 class Node {
 

@@ -1,4 +1,4 @@
-package week8_Hash;
+package week08_Hash;
 
 import java.util.HashMap;
 import java.util.Scanner;

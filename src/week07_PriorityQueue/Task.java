@@ -1,4 +1,4 @@
-package week7_PriorityQueue;
+package week07_PriorityQueue;
 
 public class Task {
     String description;

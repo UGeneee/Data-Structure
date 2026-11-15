@@ -1,4 +1,4 @@
-package week2_DynamicArrays;
+package week02_DynamicArrays;
 
 public class Lab02Exer1 {
 

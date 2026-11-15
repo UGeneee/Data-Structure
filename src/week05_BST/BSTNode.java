@@ -1,4 +1,4 @@
-package week5_BST;
+package week05_BST;
 
 class BSTNode {
     int key;

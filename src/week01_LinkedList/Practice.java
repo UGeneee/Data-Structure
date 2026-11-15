@@ -1,4 +1,4 @@
-package week1_LinkedList;
+package week01_LinkedList;
 
 class Node {
     int data;

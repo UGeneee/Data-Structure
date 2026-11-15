@@ -1,4 +1,4 @@
-package week6_Heaps;
+package week06_Heaps;
 
 import java.util.Collections;
 import java.util.PriorityQueue;

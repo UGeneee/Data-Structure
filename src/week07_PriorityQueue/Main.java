@@ -1,4 +1,4 @@
-package week7_PriorityQueue;
+package week07_PriorityQueue;
 
 import java.util.Comparator;
 import java.util.InputMismatchException;
